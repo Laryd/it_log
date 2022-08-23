@@ -1,17 +1,13 @@
 # ITLogger
 
-> React app to track IT department tasks and issues. Uses JSON-Server as a mock backend. This is part of my React course on Udemy
+> React app to track IT department tasks and issues. using Git - to get mock JSON data
 
 ## Usage
 
 ### `npm install`
 
-### `npm run dev`
+### `npm run start`
 
-Runs the app with the backend JSON-Server<br>
-Open [http://localhost:3000](http://localhost:3000)
-Server [http://localhost:5000](http://localhost:5000)
-db.json contains data
 
 ### `npm run build`
 
